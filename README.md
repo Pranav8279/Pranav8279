@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Pranav8279
+- 👀 I’m interested in Developing AI model 
+- 🌱 I’m currently learning Machine learning
+- 📫 How to reach me via linkedin 
